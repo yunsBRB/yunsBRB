@@ -1,17 +1,17 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a8b5b,100:d4a359&height=180&section=header&text=Younès%20Berebia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20·%20Cybersecurity%20·%20Open%20Source&descAlignY=58&descSize=15&descColor=a0aec0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a8b5b,100:d4a359&height=180&section=header&text=Younes%20Berebia&fontSize=48&fontColor=ffffff)
 
   <a href="https://git.io/typing-svg">
    
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Java+Developer+%C2%B7+Belgium;Open+Source+%C2%B7+Cybersecurity+%C2%B7+Clean+Code;Learning+by+building.+Building+by+doing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;" alt="Typing SVG" />
 </a>
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A0DC?style=for-the-badge&logoColor=white)](https://yunsbrb.github.io/myPortfoliolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younesberebia/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berebiayounes@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4361ee?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yunsbrb.github.io/myPortfoliolio/)
+[![Email](https://img.shields.io/badge/Email-4E5D6C?style=for-the-badge&logoColor=white)](mailto:berebiayounes@gmail.com)
 
 </div>
 
@@ -19,8 +19,8 @@
 
 ```json
 {
-  "who"   : "Younès Berebia",
-  "what"  : "Full Stack Java · Cybersecurity · Open Source",
+  "who"   : "Younes Berebia",
+  "what"  : "Database Management · Cybersecurity · Open Source",
   "where" : "Belgium",
   "when"  : "Available Jan 2027"
 }
