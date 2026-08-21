@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4361ee&height=180&section=header&text=Younès%20Berebia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20·%20Cybersecurity%20·%20Open%20Source&descAlignY=58&descSize=15&descColor=a0aec0)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a8b5b,100:d4a359&height=180&section=header&text=Younès%20Berebia&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Java%20·%20Cybersecurity%20·%20Open%20Source&descAlignY=58&descSize=15&descColor=a0aec0)
 
   <a href="https://git.io/typing-svg">
    
@@ -15,7 +15,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7a8b5b,100:0d1117&height=2&width=100%" width="100%"/>
 
 ```json
 {
@@ -24,8 +24,9 @@
   "where" : "Belgium",
   "when"  : "Available Jan 2027"
 }
+
 ```
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7a8b5b,100:0d1117&height=2&width=100%" width="100%"/>
 
 
 **Core & Backend Languages**<br>
@@ -75,17 +76,17 @@
 ![Debian WSL](https://img.shields.io/badge/Debian_WSL-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7a8b5b,100:0d1117&height=2&width=100%" width="100%"/>
 <div align="center">
 
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yunsBRB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4361ee&text_color=a0aec0)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yunsBRB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7a8b5b&text_color=a0aec0)
 </div>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:7a8b5b,100:0d1117&height=2&width=100%" width="100%"/>
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7a8b5b,100:0d1117&height=100&section=footer)
 
 </div>
