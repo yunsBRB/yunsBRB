@@ -20,15 +20,13 @@
 ```json
 {
   "who"   : "Younès Berebia",
-  "what"  : "Full Stack Java · Cybersecurity",
+  "what"  : "Full Stack Java · Cybersecurity · Open Source",
   "where" : "Belgium",
   "when"  : "Available Jan 2027"
 }
 ```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
 
----
-
-### **💻 Tech Stack**
 
 **Core & Backend Languages**<br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -38,9 +36,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 **Frontend, Web & CMS**<br>
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -59,9 +57,9 @@
 ![Business Analysis](https://img.shields.io/badge/Business_Analysis-00599C?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 
 **Quality, Testing & Cybersecurity**<br>
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Software_Testing-00599C?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1a1a2e?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
 
 **AI & Workflow Automation**<br>
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -70,40 +68,22 @@
 
 **DevOps & Developer Workspace**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Debian WSL](https://img.shields.io/badge/Debian_WSL-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Debian WSL](https://img.shields.io/badge/Debian_WSL-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
----
 
-### **📌 Featured Projects**
-
-| Project | Description | Stack |
-|---|---|---|
-| [MediathequeCRUD_gestion](https://github.com/yunsBRB/MediathequeCRUD_gestion) | Library management system — CRUD, layered architecture | Java · OOP · SQL |
-| [SuperMario](https://github.com/yunsBRB/SuperMario) | 2D game rebuilt from scratch — game loop, collision detection | JavaScript · HTML5 · CSS3 |
-| [Loading-Full-Stack](https://github.com/yunsBRB/Loading-Full-Stack) | Live tracker of my Full Stack training progress | HTML · CSS · JS |
-| [HvM](https://github.com/yunsBRB/HvM) | Heroes vs Monsters — complete OOP project | C# · .NET |
-| [nutriscan](https://github.com/yunsBRB/nutriscan) | Nutritional tracking app prototype | TypeScript |
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
 <div align="center">
 
-### **📊 GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yunsBRB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4361ee&icon_color=4361ee&text_color=a0aec0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yunsBRB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4361ee&text_color=a0aec0)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=yunsBRB&theme=tokyonight&hide_border=true&background=0d1117&ring=4361ee&fire=4361ee&currStreakLabel=4361ee&sideLabels=a0aec0&dates=a0aec0)
-
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yunsBRB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4361ee&text_color=a0aec0)
+</div>
 </div>
 
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:4361ee,100:0d1117&height=2&width=100%" width="100%"/>
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:0d1117&height=100&section=footer)
