@@ -4,13 +4,13 @@
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <!-- Mode SOMBRE (Texte Blanc) -->
+        <!-- MODE CLAIR : texte Noir (#000000) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=000000&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;#gh-light-mode-only" alt="Typing SVG">
+    <!-- MODE SOMBRE : texte Blanc (#FFFFFF) -->
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;#gh-dark-mode-only">
     
-    <!-- Mode CLAIR (Texte Noir) -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=000000&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;#gh-light-mode-only" alt="Typing SVG">
+
   </picture>
-</a>
 </a>
 <br/>
 
