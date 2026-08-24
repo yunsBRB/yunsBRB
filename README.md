@@ -2,11 +2,16 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7a8b5b,100:d4a359&height=180&section=header&text=Younes%20Berebia&fontSize=48&fontColor=ffffff)
 
-  <a href="https://git.io/typing-svg">
-   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <picture>
+    <!-- Mode SOMBRE (Texte Blanc) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;#gh-dark-mode-only">
+    
+    <!-- Mode CLAIR (Texte Noir) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=000000&center=true&vCenter=true&width=650&height=60&lines=Full+Stack+Developer+%C2%B7+currently+in+Belgium;Database+Management+%C2%B7+Open+Source+%C2%B7+Cybersecurity;#gh-light-mode-only" alt="Typing SVG">
+  </picture>
 </a>
-
+</a>
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A0DC?style=for-the-badge&logoColor=white)](https://yunsbrb.github.io/myPortfoliolio/)
